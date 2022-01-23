@@ -1,0 +1,5 @@
+Web3 is distinct from Tim Berners-Lee's 1999 concept for a semantic web.[13] In 2006 Tim Berners-Lee described the Semantic Web as a component of Web 3.0.[14]
+
+The term "Web3" was coined by Polkadot founder and Ethereum co-founder Gavin Wood in 2014, referring to a "decentralized online ecosystem based on blockchain."[1] In 2021, the idea of Web3 gained popularity.[15] Particular interest spiked toward the end of 2021, largely due to interest from cryptocurrency enthusiasts and investments from high-profile technologists and companies.[6][7] Executives from venture capital firm Andreessen Horowitz traveled to Washington, D.C. in October 2021 to lobby for the idea as a potential solution to questions about regulation of the web, with which policymakers have been grappling.[16]
+
+Some writers referring to the decentralized concept usually known as "Web3" have used the term "Web 3.0", leading to some confusion between the two concepts.[2][3] Furthermore, some visions of Web3 also incorporate ideas relating to the semantic web
